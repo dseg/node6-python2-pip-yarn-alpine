@@ -1,5 +1,5 @@
 IMAGE='dseg/node6-python2-pip-yarn-alpine'
-VERSION='1.1.1'
+VERSION='1.1.2'
 
 default: run
 
