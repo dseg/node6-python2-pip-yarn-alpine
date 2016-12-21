@@ -16,7 +16,8 @@ It's lightweight(48MB compressed), and contains following packages.
 + npm 3.10.9
 + yarn 0.16.1
 + webpack 1.13.2
-+ typescript 2.0.3
++ typescript 2.0.10
++ git 2.8.3
 + zip 5.3.0
 + python 2.7.12
 + pip 8.1.2
