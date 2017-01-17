@@ -12,10 +12,10 @@ There is the official 'node' image but which doesn't contains the pip command an
 So I created this custom docker image.
 It's lightweight(48MB compressed), and contains following packages.
 
-+ node ~~6.9.1~~ 7.0.0
-+ npm 3.10.9
-+ yarn 0.16.1
-+ webpack 1.13.2
++ node ~~6.9.1~~ 7.4.0
++ npm ~~3.10.9~~ 4.0.5
++ yarn ~~0.16.1~~ 0.18.1
++ webpack ~~1.13.2~~ 1.14.0
 + typescript 2.0.10
 + git 2.8.3
 + zip 5.3.0
