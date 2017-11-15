@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:7.4
+FROM mhart/alpine-node:6
 # Bash is required for use with BitBucket Pipelines.
 RUN\
  apk add --no-cache git openssh python py-pip bash zip findutils &&\
